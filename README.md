@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm **Piyush Kumar Singh** 
-## 🤖 B.Tech IT Student | AI & Robotics Specialist | Full-Stack Developer
+## 👨‍💻 B.Tech IT Student | AI & Robotics Specialist | Full-Stack Developer
 ### 📍 Gwalior, India
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+%26+Robotics+Student;Full-Stack+MERN+Developer;Competitive+Programming+Expert;Open+Source+Contributor;98.55+Percentile+Achiever" alt="Typing SVG" />
@@ -211,27 +211,26 @@
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="60%">
 
 ### 🤖 [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=89A6B4FFD84462B69642F0742A7C82A3EE953B34AAF1A909240F9483426A2AF3)
 **Oracle** • *Oct 2025*  
 📋 **Credential ID:** `322511771OCI25GAIOCP`  
 🎯 **Skills:** Artificial Intelligence (AI), Generative AI
 
+</td>
+<td width="40%">
+
 ### 🚀 [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/NW1Y1z-lSkqoaSV0CYAXYg?identity__email=121piyush466mits@gmail.com)
 **Postman** • *Sep 2025*  
 🎯 **Skills:** Postman API, REST APIs, API Testing
 
 </td>
-<td width="50%">
-
-### 🏅 [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDF1498F3C03E2F5E7390AC91CE0C39E26BA42BBC06B50A23C351B7DF88CACE1)
-**Oracle** • *Sep 2025*  
-📋 **Credential ID:** `322511771OCI25AICFA`
-
-</td>
 </tr>
 </table>
+
+**🏅 Additional Oracle Certification:**
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDF1498F3C03E2F5E7390AC91CE0C39E26BA42BBC06B50A23C351B7DF88CACE1) - Oracle (Sep 2025)
 
 ---
 
