@@ -1,61 +1,107 @@
-<h2 align="left">Hi 👋! My name is Piyush Kumar Singh and I'm a B.Tech IT Student specializing in AI & Robotics, from Gwalior, India</h2>
+<div align="center">
+
+# Hi 👋, I'm **Piyush Kumar Singh** 
+## 🤖 B.Tech IT Student | AI & Robotics Specialist | Full-Stack Developer
+### 📍 Gwalior, India
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+%26+Robotics+Student;Full-Stack+MERN+Developer;Competitive+Programming+Expert;Open+Source+Contributor;98.55+Percentile+Achiever" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=piyushkumar0707&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="200" alt="stats graph" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkumar0707&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200" alt="languages graph" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+###
+
+<table align="right">
+<tr>
+<td>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 💻 Tech Stack & Skills
+
+</div>
+
+<div align="center">
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,js,html,css,redux&theme=dark" />
+
+### ⚙️ Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java&theme=dark" />
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cpp&theme=dark" />
+
+</div>
+
+---
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushkumar0707&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkumar0707&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-### 💻 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-</div>
-
-###
-
-### 🏆 Achievements & Open Source
-
-<div align="left">
-
-- 🌟 **98.55 Percentile** in Naukri Campus Young Turks 2025 - **India's largest skill contest**
-- 🥇 **Secured 81st Rank (Top 1.5%)** in DSA MasterMind (MCQ Round) out of **6999+ participants**
-- 🏅 **Secured 190th Rank** in CodeSprint (Final Coding Round) among **6999+ national competitors** 
-- 🎯 **Achieved 2nd Position** in Internship Illumination - Asimov Robotics Club
-- 📊 **Attained 176th Institutional Rank** on the GeeksforGeeks Platform
-- 🌟 **Participated in GSSoC (GirlScript Summer of Code)** - Contributing to Open Source
-- 🎃 **Hacktoberfest 2025 Supercontributor** - Achieved highest level with multiple badges
-- 🌳 **Tree Planter Badge** - Environmental contribution through code
-- 🚀 **Multiple Hacktoberfest Levels** - Level 0 to Level 4 progression
+## 🏆 Achievements & Open Source
 
 </div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🌟 **Top Achievements**
+- 🥇 **98.55 Percentile** - Naukri Campus Young Turks 2025  
+  *India's largest skill contest*
+- 🏆 **81st Rank (Top 1.5%)** - DSA MasterMind  
+  *Out of 6999+ participants*
+- 🥈 **190th Rank** - CodeSprint Final Round  
+  *Among 6999+ national competitors*
+- 🎯 **2nd Position** - Internship Illumination  
+  *Asimov Robotics Club*
+
+</td>
+<td width="50%">
+
+### 🌟 **Platform Rankings**
+- 📊 **176th Institutional Rank** - GeeksforGeeks
+- 🎃 **Hacktoberfest 2025 Supercontributor**  
+  *Highest achievement level*
+- 🌳 **Tree Planter Badge** - Environmental contribution
+- 🚀 **GSSoC Participant** - Open Source Contribution  
+  *GirlScript Summer of Code*
+
+</td>
+</tr>
+</table>
+
+---
 
 ###
 
@@ -157,26 +203,83 @@
 
 ### 📜 Certifications
 
-**🔥 Latest Professional Certifications:**
-- 🤖 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** - Oracle (Oct 2025)
-  - *Credential ID: 322511771OCI25GAIOCP*
-  - *Skills: Artificial Intelligence (AI), Generative AI*
-- 🚀 **Postman API Fundamentals Student Expert** - Postman (Sep 2025)
-  - *Skills: Postman API, REST APIs, API Testing*
-- 🏅 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** - Oracle (Sep 2025)
-  - *Credential ID: 322511771OCI25AICFA*
+<div align="center">
 
-**🏆 Excellence & Merit Certifications:**
-- 🥇 **Naukri Campus Young Turks 2025 - Certificate of Merit** - Naukri Campus (Sep 2025)
-  - *🎯 **98.55 Percentile** - India's largest skill contest*
-  - *Certificate ID: 68d9bdfcabe8a1724df78fa1*
-  - *Recognized by leading industry experts including Infosys, Hitachi, CES, and more*
-- 🎯 **GfG 160-160 Days of Problem Solving** (With Summer Workshops) - GeeksforGeeks (May 2025)
-  - *Skills: Data Structures, Algorithms, Creative Problem Solving, Programming*
-- 🚀 **Certificate of Excellence - CodeSprint (Final Coding Round)** - Unstop (July 2025)
-  - *CodeClash - The Battle of Logic*
-  - *Credential ID: a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7*
-- 🏆 **Certificate of Excellence - DSA MasterMind** (MCQ Round) - Unstop (June 2025)
+## 🔥 Latest Professional Certifications
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🤖 [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=322511771OCI25GAIOCP)
+**Oracle** • *Oct 2025*  
+📋 **Credential ID:** `322511771OCI25GAIOCP`  
+🎯 **Skills:** Artificial Intelligence (AI), Generative AI
+
+### 🚀 [Postman API Fundamentals Student Expert](https://badgr.com/public/badges/)
+**Postman** • *Sep 2025*  
+🎯 **Skills:** Postman API, REST APIs, API Testing
+
+</td>
+<td width="50%">
+
+### 🏅 [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=322511771OCI25AICFA)
+**Oracle** • *Sep 2025*  
+📋 **Credential ID:** `322511771OCI25AICFA`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 Excellence & Merit Certifications
+
+</div>
+
+<table align="center">
+<tr>
+<td width="100%" align="center">
+
+### 🥇 [Naukri Campus Young Turks 2025 - Certificate of Merit](https://www.naukri.com/campus/)
+**Naukri Campus** • *Sep 2025*  
+🎯 **98.55 Percentile** - *India's largest skill contest*  
+📋 **Certificate ID:** `68d9bdfcabe8a1724df78fa1`  
+🏢 **Recognized by:** Infosys, Hitachi, CES, and leading industry experts
+
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎯 [GfG 160-160 Days of Problem Solving](https://www.geeksforgeeks.org/)
+**GeeksforGeeks** • *May 2025*  
+🎯 **Skills:** Data Structures, Algorithms, Creative Problem Solving, Programming
+
+### 🏆 [Certificate of Excellence - DSA MasterMind](https://unstop.com/)
+**Unstop** • *June 2025*  
+🧠 **MCQ Round Excellence**
+
+</td>
+<td width="50%">
+
+### 🚀 [Certificate of Excellence - CodeSprint](https://unstop.com/certificate/a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7)
+**Unstop** • *July 2025*  
+⚔️ **CodeClash - The Battle of Logic**  
+📋 **Credential ID:** `a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7`
+
+</td>
+</tr>
+</table>
+
+---
 
 ###
 
@@ -188,26 +291,38 @@
 
 ###
 
-### 📈 Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
 </div>
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/piyushkumar0707/piyushkumar0707/output/snake.svg" alt="Snake animation" />
-</div>
 
-###
-
-<div align="center">
+## 🐍 Contribution Snake
   
-### 💫 "Code is like humor. When you have to explain it, it's bad." 
+<img src="https://raw.githubusercontent.com/piyushkumar0707/piyushkumar0707/output/snake.svg" alt="Snake animation" />
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=piyushkumar0707&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
+---
+
+<div align="center">
+
+### 💫 *"Code is like humor. When you have to explain it, it's bad."*
+
+<img src="https://komarev.com/ghpvc/?username=piyushkumar0707&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+### ⭐ Don't forget to star some repositories if you find them interesting!
+
+</div>
+
+<div align="center">
+
+**🚀 Let's connect and build something amazing together! 🚀**
 
 </div>
