@@ -44,7 +44,8 @@
 ### 🏆 Achievements & Open Source
 
 <div align="left">
-  
+
+- 🌟 **98.55 Percentile** in Naukri Campus Young Turks 2025 - **India's largest skill contest**
 - 🥇 **Secured 81st Rank (Top 1.5%)** in DSA MasterMind (MCQ Round) out of **6999+ participants**
 - 🏅 **Secured 190th Rank** in CodeSprint (Final Coding Round) among **6999+ national competitors** 
 - 🎯 **Achieved 2nd Position** in Internship Illumination - Asimov Robotics Club
@@ -152,11 +153,27 @@
 
 ###
 
-### �📜 Certifications
+### 📜 Certifications
 
+**🔥 Latest Professional Certifications:**
+- 🤖 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** - Oracle (Oct 2025)
+  - *Credential ID: 322511771OCI25GAIOCP*
+  - *Skills: Artificial Intelligence (AI), Generative AI*
+- 🚀 **Postman API Fundamentals Student Expert** - Postman (Sep 2025)
+  - *Skills: Postman API, REST APIs, API Testing*
 - 🏅 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** - Oracle (Sep 2025)
-- 🎯 **GfG 160-160 Days of Problem Solving** (With Summer Workshops) - GeeksforGeeks (May 2025)  
-- 🚀 **Certificate of Excellence - CodeSprint** (Final Coding Round) - Unstop (July 2025)
+  - *Credential ID: 322511771OCI25AICFA*
+
+**🏆 Excellence & Merit Certifications:**
+- 🥇 **Naukri Campus Young Turks 2025 - Certificate of Merit** - Naukri Campus (Sep 2025)
+  - *🎯 **98.55 Percentile** - India's largest skill contest*
+  - *Certificate ID: 68d9bdfcabe8a1724df78fa1*
+  - *Recognized by leading industry experts including Infosys, Hitachi, CES, and more*
+- 🎯 **GfG 160-160 Days of Problem Solving** (With Summer Workshops) - GeeksforGeeks (May 2025)
+  - *Skills: Data Structures, Algorithms, Creative Problem Solving, Programming*
+- 🚀 **Certificate of Excellence - CodeSprint (Final Coding Round)** - Unstop (July 2025)
+  - *CodeClash - The Battle of Logic*
+  - *Credential ID: a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7*
 - 🏆 **Certificate of Excellence - DSA MasterMind** (MCQ Round) - Unstop (June 2025)
 
 ###
