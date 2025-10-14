@@ -58,13 +58,37 @@
 
 ###
 
+### 🏅 Coding Platform Achievements
+
+<div align="center">
+
+[![Codolio Profile](https://img.shields.io/badge/Codolio-piyush__07-orange?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/piyush_07)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-176th_Rank-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/piyushkumar0707)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/piyushkumar0707)
+
+</div>
+
+**📊 Platform Statistics:**
+- 🎯 **Codolio Profile:** Active problem solver and contest participant
+- 💚 **GeeksforGeeks:** 176th Institutional Rank with consistent problem solving
+- 🧩 **Competitive Programming:** Regular participation in coding contests
+- 📈 **Algorithm Expertise:** Strong foundation in Data Structures and Algorithms
+
+###
+
 ### 🎖️ Holopin Badges
 
 <div align="center">
   <a href="https://www.holopin.io/@piyushkumar0707">
-    <img src="https://holopin.me/piyushkumar0707" alt="Holopin Badge Board" />
+    <img src="https://holopin.io/api/user/board?user=piyushkumar0707" alt="Holopin Badge Board" />
   </a>
 </div>
+
+**🏆 Recent Achievements:**
+- 🥇 **Hacktoberfest 2025: Supercontributor** - Highest achievement level
+- 🌟 **Hacktoberfest 2025: Level 4 Contributor** - Advanced contributor status  
+- 🌳 **Tree Planted Badge** - Environmental contribution through open source
+- 🚀 **Multiple Level Progressions** - Consistent contribution across levels 0-4
 
 ###
 
