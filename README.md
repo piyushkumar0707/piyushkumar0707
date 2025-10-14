@@ -18,12 +18,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=piyushkumar0707&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="200" alt="stats graph" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=piyushkumar0707&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="200" alt="stats graph" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkumar0707&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200" alt="languages graph" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=piyushkumar0707&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200" alt="languages graph" />
 
 </td>
 </tr>
@@ -287,7 +287,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar0707&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=piyushkumar0707&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 
 ###
