@@ -148,6 +148,8 @@
 - Designed sophisticated platform to enhance tourist safety via real-time monitoring and automated alerts
 - Integrated AI-driven analytics and blockchain principles to ensure secure data management and storage
 - Conceptualized architecture to reduce data processing latency by 30%
+- 🌐 **Live Demo:** [travira-frontend.onrender.com](https://travira-frontend.onrender.com/)
+- 📂 **GitHub Repo:** [github.com/piyushkumar0707/sih-dashboard-test-1](https://github.com/piyushkumar0707/sih-dashboard-test-1)
 
 </div>
 
