@@ -213,19 +213,19 @@
 <tr>
 <td width="50%">
 
-### 🤖 [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=322511771OCI25GAIOCP)
+### 🤖 [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=89A6B4FFD84462B69642F0742A7C82A3EE953B34AAF1A909240F9483426A2AF3)
 **Oracle** • *Oct 2025*  
 📋 **Credential ID:** `322511771OCI25GAIOCP`  
 🎯 **Skills:** Artificial Intelligence (AI), Generative AI
 
-### 🚀 [Postman API Fundamentals Student Expert](https://badgr.com/public/badges/)
+### 🚀 [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/NW1Y1z-lSkqoaSV0CYAXYg?identity__email=121piyush466mits@gmail.com)
 **Postman** • *Sep 2025*  
 🎯 **Skills:** Postman API, REST APIs, API Testing
 
 </td>
 <td width="50%">
 
-### 🏅 [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=322511771OCI25AICFA)
+### 🏅 [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDF1498F3C03E2F5E7390AC91CE0C39E26BA42BBC06B50A23C351B7DF88CACE1)
 **Oracle** • *Sep 2025*  
 📋 **Credential ID:** `322511771OCI25AICFA`
 
