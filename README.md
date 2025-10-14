@@ -69,10 +69,38 @@
 </div>
 
 **📊 Platform Statistics:**
-- 🎯 **Codolio Profile:** Active problem solver and contest participant
+- 🎯 **Codolio Profile:** **20 Awards** including multiple Specialist & Achiever badges
 - 💚 **GeeksforGeeks:** 176th Institutional Rank with consistent problem solving
 - 🧩 **Competitive Programming:** Regular participation in coding contests
 - 📈 **Algorithm Expertise:** Strong foundation in Data Structures and Algorithms
+
+**🏆 Codolio Achievements (20 Awards):**
+
+**🎖️ Specialist Level:**
+- 👑 **Specialist - Two Pointers** - Advanced algorithm mastery
+- 👑 **Specialist - Stacks & Queues** - Data structure expertise  
+- 👑 **Specialist - Sorting** - Algorithm optimization skills
+- 👑 **Specialist - Linked List** - Complex data structure handling
+- 👑 **Specialist - Binary Trees** - Tree traversal and manipulation
+- 👑 **Specialist - Arrays** - Array algorithm proficiency
+
+**🥇 Achiever Level:**
+- 🏅 **Achiever - Two Pointers** - Algorithmic problem solving
+- 🏅 **Achiever - Tries** - Advanced string processing
+- 🏅 **Achiever - Stacks & Queues** - Data structure implementation
+- 🏅 **Achiever - Sorting** - Sorting algorithm mastery
+- 🏅 **Achiever - Recursion** - Recursive problem solving
+- 🏅 **Achiever - Math** - Mathematical algorithm skills
+- 🏅 **Achiever - Linked List** - Pointer manipulation expertise
+- 🏅 **Achiever - Heap** - Priority queue implementation
+- 🏅 **Achiever - Hash Table** - Efficient data retrieval
+- 🏅 **Achiever - Bit Manipulation** - Low-level optimization
+- 🏅 **Achiever - Binary Trees** - Tree algorithm proficiency
+- 🏅 **Achiever - Binary Search** - Search optimization
+- 🏅 **Achiever - Arrays** - Fundamental data structure mastery
+
+**🎯 Special Recognition:**
+- 🗓️ **50 Days Badge 2025** - Consistent daily practice (Aug 30, 2025)
 
 ###
 
