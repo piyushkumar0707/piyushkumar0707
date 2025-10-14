@@ -245,7 +245,7 @@
 <tr>
 <td width="100%" align="center">
 
-### 🥇 [Naukri Campus Young Turks 2025 - Certificate of Merit](https://www.naukri.com/campus/)
+### 🥇 [Naukri Campus Young Turks 2025 - Certificate of Merit](https://www.naukri.com/campus/certificates/young_turks25_round_1_achievement/v0/68d9bdfdabe8a1724df78fa1)
 **Naukri Campus** • *Sep 2025*  
 🎯 **98.55 Percentile** - *India's largest skill contest*  
 📋 **Certificate ID:** `68d9bdfcabe8a1724df78fa1`  
@@ -259,18 +259,19 @@
 <tr>
 <td width="50%">
 
-### 🎯 [GfG 160-160 Days of Problem Solving](https://www.geeksforgeeks.org/)
+### 🎯 [GfG 160-160 Days of Problem Solving](https://media.geeksforgeeks.org/courses/certificates/13ab697fc9d09addbe68a46d0177a6b8.pdf)
 **GeeksforGeeks** • *May 2025*  
 🎯 **Skills:** Data Structures, Algorithms, Creative Problem Solving, Programming
 
-### 🏆 [Certificate of Excellence - DSA MasterMind](https://unstop.com/)
+### 🏆 [Certificate of Excellence - DSA MasterMind](https://unstop.com/certificate-preview/babebcc2-2a6d-4c5e-a8e7-1250d4e6e61b)
 **Unstop** • *June 2025*  
-🧠 **MCQ Round Excellence**
+🧠 **MCQ Round Excellence**  
+📋 **Credential ID:** `babebcc2-2a6d-4c5e-a8e7-1250d4e6e61b`
 
 </td>
 <td width="50%">
 
-### 🚀 [Certificate of Excellence - CodeSprint](https://unstop.com/certificate/a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7)
+### 🚀 [Certificate of Excellence - CodeSprint](https://unstop.com/certificate-preview/a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7)
 **Unstop** • *July 2025*  
 ⚔️ **CodeClash - The Battle of Logic**  
 📋 **Credential ID:** `a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7`
