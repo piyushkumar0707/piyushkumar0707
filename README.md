@@ -14,20 +14,18 @@
 
 ## 📊 GitHub Analytics
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=piyushkumar0707&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="200" alt="stats graph" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushkumar0707&theme=tokyonight)
+![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkumar0707&theme=tokyonight)
 
-</td>
-<td width="50%">
+</div>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=piyushkumar0707&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="200" alt="languages graph" />
+<div align="center">
 
-</td>
-</tr>
-</table>
+![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkumar0707&theme=tokyonight)
+
+</div>
 
 </div>
 
@@ -284,10 +282,12 @@
 
 ###
 
-### 📊 GitHub Analytics
+### � GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar0707&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=piyushkumar0707&theme=tokyonight&hide_border=true)
+
 </div>
 
 ###
@@ -296,7 +296,7 @@
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=piyushkumar0707&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyushkumar0707&theme=tokyonight&utc_offset=5.5)
 
 </div>
 
