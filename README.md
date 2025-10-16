@@ -108,15 +108,18 @@
 <div align="center">
 
 [![Codolio Profile](https://img.shields.io/badge/Codolio-piyush__07-orange?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/piyush_07)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-176th_Rank-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/piyushkumar0707)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Active-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/piyushkumar0707)
+[![LeetCode](https://img.shields.io/badge/LeetCode-piyushsingh__07-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/piyushsingh_07/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-121piyushhcdy-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/121piyushhcdy/)
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-piyushmits-red?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/piyushmits)
 
 </div>
 
 **📊 Platform Statistics:**
 - 🎯 **Codolio Profile:** **20 Awards** including multiple Specialist & Achiever badges
+- 🟡 **LeetCode:** Active problem solver - [piyushsingh_07](https://leetcode.com/u/piyushsingh_07/)
 - 💚 **GeeksforGeeks:** 176th Institutional Rank with consistent problem solving
-- 🧩 **Competitive Programming:** Regular participation in coding contests
+- 🔴 **Coding Ninjas:** Regular practice and skill development
+- 🧩 **Competitive Programming:** Regular participation in coding contests across platforms
 - 📈 **Algorithm Expertise:** Strong foundation in Data Structures and Algorithms
 
 **🏆 Codolio Achievements (20 Awards):**
