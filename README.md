@@ -58,6 +58,13 @@
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cpp&theme=dark" />
 
+### 🎯 Specialized Skills (GSSoC 2025)
+- 🔐 **Security & Auth:** JWT, OAuth, Role-based Access Control
+- 🎨 **Modern UI/UX:** Glassmorphism, Dark Mode, Responsive Design  
+- ⚡ **Performance:** Caching, Optimization, Real-time Features
+- 🤖 **AI Integration:** Speech Recognition, Chatbots, ML Features
+- 🌐 **Internationalization:** Multi-language Support, Accessibility
+
 </div>
 
 ---
@@ -92,8 +99,8 @@
 - 🎃 **Hacktoberfest 2025 Supercontributor**  
   *Highest achievement level*
 - 🌳 **Tree Planter Badge** - Environmental contribution
-- 🚀 **GSSoC Participant** - Open Source Contribution  
-  *GirlScript Summer of Code*
+- 🏆 **GSSoC 2025 Top 50 Contributor** - Rank 32/3414  
+  *GirlScript Summer of Code Certificate of Excellence*
 
 </td>
 </tr>
@@ -272,10 +279,27 @@
 </td>
 <td width="50%">
 
-### 🚀 [Certificate of Excellence - CodeSprint](https://unstop.com/certificate-preview/a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7)
+### 🎯 [Certificate of Excellence - CodeSprint](https://unstop.com/certificate-preview/a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7)
 **Unstop** • *July 2025*  
 ⚔️ **CodeClash - The Battle of Logic**  
 📋 **Credential ID:** `a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7`
+
+### 🏆 [GirlScript Summer of Code 2025 - Certificate of Excellence](https://gssoc.girlscript.tech/)
+**GirlScript Foundation** • *2025*  
+🥇 **Top 50 Contributor** - Rank 32 out of 3414 participants  
+📊 **48 Merged Pull Requests** - Comprehensive contributions across multiple projects  
+🎯 **Skills:** Open Source Development, Collaboration, Leadership  
+📋 **Achievement:** Recognized for dedication, innovation, and collaborative spirit
+
+**🚀 Key Contributions Highlights:**
+- 🔐 **Authentication & Security:** JWT implementation, role-based access control, security enhancements
+- 🎨 **UI/UX Excellence:** Modern design systems, dark mode themes, Glassmorphism UI components  
+- ⚡ **Performance:** Caching systems, performance optimization, responsive design implementations
+- 🤖 **AI Integration:** Voice-enabled chatbots with speech recognition, AI-powered features
+- 📱 **Full-Stack Features:** Real-time notifications, comprehensive CRUD operations, advanced search systems
+- 🌐 **Accessibility & i18n:** Multi-language support, accessibility improvements, inclusive design
+- 📚 **Documentation:** Enhanced setup guides, comprehensive developer documentation
+- 🧪 **Testing & Quality:** Form validation, error handling, comprehensive testing implementations
 
 </td>
 </tr>
