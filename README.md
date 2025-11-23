@@ -122,40 +122,61 @@
 </div>
 
 **📊 Platform Statistics:**
-- 🎯 **Codolio Profile:** **20 Awards** including multiple Specialist & Achiever badges
+- 🎯 **Codolio Profile:** **39 Awards** including Master, Specialist & Achiever badges across all major DSA topics
 - 🟡 **LeetCode:** Active problem solver - [piyushsingh_07](https://leetcode.com/u/piyushsingh_07/)
 - 💚 **GeeksforGeeks:** 176th Institutional Rank with consistent problem solving
 - 🔴 **Coding Ninjas:** Regular practice and skill development
 - 🧩 **Competitive Programming:** Regular participation in coding contests across platforms
 - 📈 **Algorithm Expertise:** Strong foundation in Data Structures and Algorithms
 
-**🏆 Codolio Achievements (20 Awards):**
+**🏆 Codolio Achievements (39 Awards):**
 
-**🎖️ Specialist Level:**
+**🎖️ Master Level:**
+- 👑 **Master - Linked List** - Expert-level mastery of linked data structures
+
+**🎖️ Specialist Level (20 Awards):**
 - 👑 **Specialist - Two Pointers** - Advanced algorithm mastery
+- 👑 **Specialist - Tries** - Advanced string processing expertise
 - 👑 **Specialist - Stacks & Queues** - Data structure expertise  
 - 👑 **Specialist - Sorting** - Algorithm optimization skills
-- 👑 **Specialist - Linked List** - Complex data structure handling
+- 👑 **Specialist - Recursion** - Advanced recursive problem solving
+- 👑 **Specialist - Matrices (2D Arrays)** - Multi-dimensional data handling
+- 👑 **Specialist - Linked List** - Complex data structure manipulation
+- 👑 **Specialist - Hash Table** - Advanced hashing techniques
+- 👑 **Specialist - Graph** - Graph algorithms and traversals
+- 👑 **Specialist - Depth-first Search** - DFS algorithm mastery
+- 👑 **Specialist - Breadth-first Search** - BFS algorithm expertise
 - 👑 **Specialist - Binary Trees** - Tree traversal and manipulation
+- 👑 **Specialist - Binary Search Trees** - BST operations mastery
+- 👑 **Specialist - Backtracking** - Complex backtracking algorithms
 - 👑 **Specialist - Arrays** - Array algorithm proficiency
 
-**🥇 Achiever Level:**
+**🥇 Achiever Level (18 Awards):**
 - 🏅 **Achiever - Two Pointers** - Algorithmic problem solving
 - 🏅 **Achiever - Tries** - Advanced string processing
+- 🏅 **Achiever - Trees** - Tree data structure expertise
 - 🏅 **Achiever - Stacks & Queues** - Data structure implementation
 - 🏅 **Achiever - Sorting** - Sorting algorithm mastery
 - 🏅 **Achiever - Recursion** - Recursive problem solving
+- 🏅 **Achiever - Matrices (2D Arrays)** - Matrix operations
 - 🏅 **Achiever - Math** - Mathematical algorithm skills
 - 🏅 **Achiever - Linked List** - Pointer manipulation expertise
 - 🏅 **Achiever - Heap** - Priority queue implementation
 - 🏅 **Achiever - Hash Table** - Efficient data retrieval
+- 🏅 **Achiever - Graph** - Graph theory applications
+- 🏅 **Achiever - Greedy** - Greedy algorithm strategies
+- 🏅 **Achiever - Depth-first Search** - DFS implementation
+- 🏅 **Achiever - Breadth-first Search** - BFS problem solving
 - 🏅 **Achiever - Bit Manipulation** - Low-level optimization
 - 🏅 **Achiever - Binary Trees** - Tree algorithm proficiency
+- 🏅 **Achiever - Binary Search Trees** - BST manipulation
 - 🏅 **Achiever - Binary Search** - Search optimization
+- 🏅 **Achiever - Backtracking** - Backtracking techniques
 - 🏅 **Achiever - Arrays** - Fundamental data structure mastery
 
-**🎯 Special Recognition:**
-- 🗓️ **50 Days Badge 2025** - Consistent daily practice (Aug 30, 2025)
+**🎯 Special Recognition & Milestones:**
+- 🗓️ **100 Days Badge 2025** - Consistent daily practice achievement (Oct 19, 2025)
+- 🗓️ **50 Days Badge 2025** - Dedicated practice milestone (Aug 30, 2025)
 
 ###
 
