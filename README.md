@@ -10,6 +10,24 @@
 
 ---
 
+## 🏅 Dynamic Achievements & Coding Stats
+
+<div align="center">
+
+### 📊 Animated Coding Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=piyushkumar0707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar0707&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 🏆 Dynamic Achievement Badges
+<img src="https://github-profile-trophy.vercel.app/?username=piyushkumar0707&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+### ⚡ Real-time Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -128,13 +146,6 @@
 - 🧩 **Competitive Programming:** Regular participation in coding contests across platforms
 - 📈 **Algorithm Expertise:** Strong foundation in Data Structures and Algorithms
 
-**🏆 Codolio Achievement Gallery (39 Awards):**
-
-<div align="center">
-  <img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/codolio-badges.png" alt="Codolio 39 Achievement Badges" width="700" />
-</div>
-
-**🏆 Codolio Achievements (39 Awards):**
 
 **🎖️ Master Level:**
 - 👑 **Master - Linked List** - Expert-level mastery of linked data structures
