@@ -10,48 +10,26 @@
 
 ---
 
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="65%">
-
-• 🔥 **Full-Stack + AI Developer** - Building intelligent applications with modern tech stacks
-
-• 🧠 **Competitive Programming Expert** - **5000+ problems solved** across major platforms with **1400+ days** of consistent coding practice
-
-• 👨‍🏫 **Tech Mentor & Educator** - Mentoring students in DSA, Development, and Career Growth
-
-• ⚡ **Performance Optimization Specialist** - Expert in MERN stack, DevOps, System Design, and **AI Architectures** (RAG + MCP + LLM)
-
-• 🏆 **Top Achiever** - **98.55 Percentile** in Naukri Campus Young Turks 2025, **Top 50 GSSoC Contributor** (Rank 32/3414)
-
-• 🌟 **Open Source Contributor** - **48 merged PRs** in GSSoC 2025, active contributor across multiple projects
-
-• 💼 **Industry Experience** - Building scalable solutions, mentoring professionals, and driving innovation
-
-• 🎯 **Continuous Learner** - Always exploring new technologies and solving complex problems
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/coding-badge.png" alt="Coding Achievement Badge" width="200" />
-
-<br/>
-
-**💡 Problem Solving Streak**
-<br/>
-**1400+ Days Consistent**
-<br/>
-**5000+ Problems Solved**
-
-</td>
-</tr>
-</table>
-
----
+## 🏅 Dynamic Achievements & Coding Stats
 
 <div align="center">
+
+### 🎯 LeetCode Journey
+<img src="https://leetcard.jacoblin.cool/piyushsingh_07?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
+
+### 📊 Animated Coding Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=piyushkumar0707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar0707&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 🏆 Dynamic Achievement Badges
+<img src="https://github-profile-trophy.vercel.app/?username=piyushkumar0707&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+### ⚡ Real-time Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -100,11 +78,11 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cpp&theme=dark" />
 
 ### 🎯 Specialized Skills (GSSoC 2025)
-- 🔐 **Security & Auth:** JWT, OAuth, Role-based Access Control
-- 🎨 **Modern UI/UX:** Glassmorphism, Dark Mode, Responsive Design  
-- ⚡ **Performance:** Caching, Optimization, Real-time Features
-- 🤖 **AI Integration:** Speech Recognition, Chatbots, ML Features
-- 🌐 **Internationalization:** Multi-language Support, Accessibility
+ 🔐 **Security & Auth:** JWT, OAuth, Role-based Access Control
+ 🎨 **Modern UI/UX:** Glassmorphism, Dark Mode, Responsive Design  
+ ⚡ **Performance:** Caching, Optimization, Real-time Features
+ 🤖 **AI Integration:** Speech Recognition, Chatbots, ML Features
+ 🌐 **Internationalization:** Multi-language Support, Accessibility
 
 </div>
 
@@ -170,6 +148,12 @@
 - 🔴 **Coding Ninjas:** Regular practice and skill development
 - 🧩 **Competitive Programming:** Regular participation in coding contests across platforms
 - 📈 **Algorithm Expertise:** Strong foundation in Data Structures and Algorithms
+
+**🏆 Codolio Achievement Gallery (39 Awards):**
+
+<div align="center">
+  <img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/codolio-badges.png" alt="Codolio 39 Achievement Badges" width="700" />
+</div>
 
 **🏆 Codolio Achievements (39 Awards):**
 
