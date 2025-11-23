@@ -180,7 +180,7 @@
 
 ###
 
-### 🎖️ GSSoC 2025 Certificate
+### 🎖️ GSSoC 2025 Certificate & Achievements
 
 <div align="center">
   <img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/gssoc-certificate.png" alt="GirlScript Summer of Code 2025 Certificate of Excellence" width="600" />
@@ -191,6 +191,13 @@
 - 🎯 **Rank 32** - Elite performance in open source contribution  
 - 📋 **Signed by:** Anubha Maneshwar, CEO & Founder, GirlScript Foundation
 - 🌟 **Recognition for:** Dedication, innovation, and collaborative spirit in the open-source community
+
+**🎖️ Earned Progression Badges:**
+- 🧭 **Explorer Badge** - Initial participation and exploration
+- 🚀 **Adventurer Badge** - Active contribution milestone  
+- 🔥 **Trailblazer Badge** - Advanced contributor status
+- ⛰️ **Summit Seeker Badge** - High-impact contributions
+- 📮 **Postman Badge** - API development expertise
 
 ###
 
