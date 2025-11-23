@@ -190,9 +190,14 @@
 - 🥇 **Top 50 Contributors** recognition among 3414 participants
 - 🎯 **Rank 32** - Elite performance in open source contribution  
 - 📋 **Signed by:** Anubha Maneshwar, CEO & Founder, GirlScript Foundation
-- 🌟 **Recognition for:** Dedication, innovation, and collaborative spirit in the open-source community
+- 🌟 **Recognition for:** Dedication, innovation, and collaborative spirit
 
 **🎖️ Earned Progression Badges:**
+
+<div align="center">
+  <img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/gssoc-badges.png" alt="GSSoC 2025 Earned Badges" width="500" />
+</div>
+
 - 🧭 **Explorer Badge** - Initial participation and exploration
 - 🚀 **Adventurer Badge** - Active contribution milestone  
 - 🔥 **Trailblazer Badge** - Advanced contributor status
