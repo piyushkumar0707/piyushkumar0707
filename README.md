@@ -10,43 +10,6 @@
 
 ---
 
-## 🏅 Dynamic Achievements & Coding Stats
-
-<div align="center">
-
-### 🎯 Codolio Problem Solving Journey
-<div align="center">
-  <a href="https://codolio.com/profile/piyush_07/problemSolving">
-    <img src="https://codolio.com/api/user/badge/piyush_07?theme=dark" alt="Codolio Profile Badge" />
-  </a>
-</div>
-
-**🏆 Codolio Achievements Summary:**
-- 🏅 **39 Total Awards** - Master, Specialist & Achiever levels
-- 💪 **452 Problems Solved** - Comprehensive problem-solving journey
-- 🎯 **278 Active Days** - Consistent daily practice
-- ⭐ **127 Day Max Streak** - Dedication to continuous improvement
-- 🏆 **39 Awards Earned** - Recognition across all major DSA topics
-
-**📊 Problem Distribution:**
-- 🟢 **Easy: 137 solved** - Strong fundamentals
-- 🟡 **Medium: 258 solved** - Advanced problem-solving skills  
-- 🔴 **Hard: 57 solved** - Expert-level algorithm mastery
-
-### 📊 Animated Coding Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=piyushkumar0707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar0707&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-### 🏆 Dynamic Achievement Badges
-<img src="https://github-profile-trophy.vercel.app/?username=piyushkumar0707&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-### ⚡ Real-time Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
