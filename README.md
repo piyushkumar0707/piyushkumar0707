@@ -10,6 +10,47 @@
 
 ---
 
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="65%">
+
+• 🔥 **Full-Stack + AI Developer** - Building intelligent applications with modern tech stacks
+
+• 🧠 **Competitive Programming Expert** - **5000+ problems solved** across major platforms with **1400+ days** of consistent coding practice
+
+• 👨‍🏫 **Tech Mentor & Educator** - Mentoring students in DSA, Development, and Career Growth
+
+• ⚡ **Performance Optimization Specialist** - Expert in MERN stack, DevOps, System Design, and **AI Architectures** (RAG + MCP + LLM)
+
+• 🏆 **Top Achiever** - **98.55 Percentile** in Naukri Campus Young Turks 2025, **Top 50 GSSoC Contributor** (Rank 32/3414)
+
+• 🌟 **Open Source Contributor** - **48 merged PRs** in GSSoC 2025, active contributor across multiple projects
+
+• 💼 **Industry Experience** - Building scalable solutions, mentoring professionals, and driving innovation
+
+• 🎯 **Continuous Learner** - Always exploring new technologies and solving complex problems
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/coding-badge.png" alt="Coding Achievement Badge" width="200" />
+
+<br/>
+
+**💡 Problem Solving Streak**
+<br/>
+**1400+ Days Consistent**
+<br/>
+**5000+ Problems Solved**
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 ## 📊 GitHub Analytics
