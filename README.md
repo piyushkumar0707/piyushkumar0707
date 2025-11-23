@@ -180,19 +180,17 @@
 
 ###
 
-### 🎖️ Holopin Badges
+### 🎖️ GSSoC 2025 Certificate
 
 <div align="center">
-  <a href="https://www.holopin.io/@piyushkumar0707">
-    <img src="https://holopin.io/api/user/board?user=piyushkumar0707" alt="Holopin Badge Board" />
-  </a>
+  <img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/gssoc-certificate.png" alt="GirlScript Summer of Code 2025 Certificate of Excellence" width="600" />
 </div>
 
-**🏆 Recent Achievements:**
-- 🥇 **Hacktoberfest 2025: Supercontributor** - Highest achievement level
-- 🌟 **Hacktoberfest 2025: Level 4 Contributor** - Advanced contributor status  
-- 🌳 **Tree Planted Badge** - Environmental contribution through open source
-- 🚀 **Multiple Level Progressions** - Consistent contribution across levels 0-4
+**🏆 Certificate Highlights:**
+- 🥇 **Top 50 Contributors** recognition among 3414 participants
+- 🎯 **Rank 32** - Elite performance in open source contribution  
+- 📋 **Signed by:** Anubha Maneshwar, CEO & Founder, GirlScript Foundation
+- 🌟 **Recognition for:** Dedication, innovation, and collaborative spirit in the open-source community
 
 ###
 
