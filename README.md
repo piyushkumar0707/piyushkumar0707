@@ -82,6 +82,7 @@
 <td width="50%">
 
 ### 🌟 **Top Achievements**
+-🏆 **GSSoC 2025 Top 50 Contributor** - Rank **32 (Top 1%)**
 - 🥇 **98.55 Percentile** - Naukri Campus Young Turks 2025  
   *India's largest skill contest*
 - 🏆 **81st Rank (Top 1.5%)** - DSA MasterMind  
@@ -99,7 +100,7 @@
 - 🎃 **Hacktoberfest 2025 Supercontributor**  
   *Highest achievement level*
 - 🌳 **Tree Planter Badge** - Environmental contribution
-- 🏆 **GSSoC 2025 Top 50 Contributor** - Rank 32/3414  
+- 🏆 **GSSoC 2025 Top 50 Contributor** - Rank **32**/3414  
   *GirlScript Summer of Code Certificate of Excellence*
 
 </td>
@@ -189,7 +190,6 @@
 **🏆 Certificate Highlights:**
 - 🥇 **Top 50 Contributors** recognition among 3414 participants
 - 🎯 **Rank 32** - Elite performance in open source contribution  
-- 📋 **Signed by:** Anubha Maneshwar, CEO & Founder, GirlScript Foundation
 - 🌟 **Recognition for:** Dedication, innovation, and collaborative spirit
 
 **🎖️ Earned Progression Badges:**
