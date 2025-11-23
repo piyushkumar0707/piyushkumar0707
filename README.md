@@ -313,7 +313,7 @@
 ⚔️ **CodeClash - The Battle of Logic**  
 📋 **Credential ID:** `a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7`
 
-### 🏆 [GirlScript Summer of Code 2025 - Certificate of Excellence](https://gssoc.girlscript.tech/)
+### 🏆 [GirlScript Summer of Code 2025 - Certificate of Excellence](https://github.com/piyushkumar0707/piyushkumar0707/blob/main/gssoc-certificate.png)
 **GirlScript Foundation** • *2025*  
 🥇 **Top 50 Contributor** - Rank 32 out of 3414 participants  
 📊 **48 Merged Pull Requests** - Comprehensive contributions across multiple projects  
