@@ -14,18 +14,27 @@
 
 <div align="center">
 
-### 📊 Animated Coding Metrics
+### 📊 GitHub Profile Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushkumar0707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/piyushkumar0707)
-[![GitHub Streak](https://streak-stats.demolab.com?user=piyushkumar0707&theme=tokyonight&hide_border=true)](https://github.com/piyushkumar0707)
+![Profile Views](https://komarev.com/ghpvc/?username=piyushkumar0707&color=blue&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/piyushkumar0707?style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/piyushkumar0707?style=for-the-badge&color=yellow)
+![GitHub Repositories](https://img.shields.io/badge/Repositories-50+-orange?style=for-the-badge)
 
-### 🏆 Dynamic Achievement Badges
+### 🏆 Achievements & Recognition
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=piyushkumar0707&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/piyushkumar0707)
+![GSSoC Top 50](https://img.shields.io/badge/GSSoC_2025-Top_50_Contributor-gold?style=for-the-badge&logo=github)
+![Rank 32](https://img.shields.io/badge/Rank-32/3414-success?style=for-the-badge)
+![98.55 Percentile](https://img.shields.io/badge/Naukri_Campus-98.55%25_Percentile-blue?style=for-the-badge)
+![DSA Rank](https://img.shields.io/badge/DSA_MasterMind-81st_Rank-purple?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest_2025-Supercontributor-orange?style=for-the-badge)
 
-### ⚡ Contribution Activity
+### ⚡ Coding Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/piyushkumar0707)
+![Commits](https://img.shields.io/badge/Total_Commits-1000+-brightgreen?style=for-the-badge&logo=git)
+![Pull Requests](https://img.shields.io/badge/Pull_Requests-200+-blue?style=for-the-badge&logo=github)
+![Issues Solved](https://img.shields.io/badge/Issues_Solved-150+-orange?style=for-the-badge&logo=github)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-100+-red?style=for-the-badge&logo=github)
 
 </div>
 
