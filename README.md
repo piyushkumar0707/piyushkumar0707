@@ -4,7 +4,7 @@
 ## 👨‍💻 B.Tech IT Student | AI & Robotics Specialist | Full-Stack Developer
 ### 📍 Gwalior, India
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+%26+Robotics+Student;Full-Stack+MERN+Developer;Competitive+Programming+Expert;Open+Source+Contributor;98.55+Percentile+Achiever" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+%26+Robotics+Student;Full-Stack+MERN+Developer;Competitive+Programming+Expert;Open+Source+Contributor;98.55+Percentile+Achiever" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=piyushkumar0707&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 ### ⚡ Real-time Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
 
 </div>
 
