@@ -21,8 +21,8 @@
 ### 🏆 Dynamic Achievement Badges
 <img src="https://github-profile-trophy.vercel.app/?username=piyushkumar0707&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
-### ⚡ Real-time Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
+### ⚡ Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
