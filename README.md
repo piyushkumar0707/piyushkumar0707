@@ -31,10 +31,10 @@
 
 ### ⚡ Coding Activity
 
-![Commits](https://img.shields.io/badge/Total_Commits-1000+-brightgreen?style=for-the-badge&logo=git)
-![Pull Requests](https://img.shields.io/badge/Pull_Requests-200+-blue?style=for-the-badge&logo=github)
-![Issues Solved](https://img.shields.io/badge/Issues_Solved-150+-orange?style=for-the-badge&logo=github)
-![Code Reviews](https://img.shields.io/badge/Code_Reviews-100+-red?style=for-the-badge&logo=github)
+![Total Contributions](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Total%20Contributions&query=$.totalContributions&url=https://github-contributions-api.jogruber.de/v4/piyushkumar0707?y=last&style=for-the-badge)
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/piyushkumar0707&style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/github/stars/piyushkumar0707?style=for-the-badge&color=yellow&logo=github&label=Total%20Stars)
+![Gists](https://img.shields.io/badge/dynamic/json?color=orange&label=Public%20Gists&query=$.public_gists&url=https://api.github.com/users/piyushkumar0707&style=for-the-badge&logo=github)
 
 </div>
 
