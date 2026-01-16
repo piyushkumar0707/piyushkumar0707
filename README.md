@@ -15,14 +15,17 @@
 <div align="center">
 
 ### 📊 Animated Coding Metrics
-<img src="https://github-readme-stats.vercel.app/api?username=piyushkumar0707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=piyushkumar0707&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushkumar0707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/piyushkumar0707)
+[![GitHub Streak](https://streak-stats.demolab.com?user=piyushkumar0707&theme=tokyonight&hide_border=true)](https://github.com/piyushkumar0707)
 
 ### 🏆 Dynamic Achievement Badges
-<img src="https://github-profile-trophy.vercel.app/?username=piyushkumar0707&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=piyushkumar0707&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/piyushkumar0707)
 
 ### ⚡ Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar0707&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/piyushkumar0707)
 
 </div>
 
