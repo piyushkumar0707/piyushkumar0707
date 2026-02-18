@@ -250,11 +250,14 @@
 
 <div align="left">
 
-**🛒 MyKart - Full-Stack E-commerce Platform**
-- Built complete e-commerce solution with React.js frontend and Node.js backend
-- Implemented secure user authentication and authorization using JSON Web Tokens (JWT)
-- Developed full suite of RESTful APIs for product management, user profiles, and order processing
-- Achieved 95+ score on Google PageSpeed Insights for performance and accessibility
+**🏥 MediQueue (CareQueue + Health-Vault) - Healthcare Operations Platform**
+- Built HIPAA-compliant healthcare platform with MERN stack (React 18, Node.js, Express, MongoDB)
+- Implemented real-time patient queue management system using Socket.io for live updates
+- Developed consent-based encrypted medical records vault with AES-256-GCM encryption
+- Created multi-role system (Patient, Doctor, Admin) with JWT authentication and role-based access control
+- Integrated 16 core features including appointment scheduling, prescription management, and audit logging
+- Designed comprehensive analytics dashboard with data visualization for healthcare metrics
+- 📂 **GitHub Repo:** [github.com/piyushkumar0707/MediQueue](https://github.com/piyushkumar0707/MediQueue)
 
 **🧳 Travira - Tourism Safety Management Platform** 
 - Designed sophisticated platform to enhance tourist safety via real-time monitoring and automated alerts
