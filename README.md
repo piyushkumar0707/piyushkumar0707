@@ -1,390 +1,230 @@
 <div align="center">
 
-# Hi 👋, I'm **Piyush Kumar Singh** 
-## 👨‍💻 B.Tech IT Student | AI & Robotics Specialist | Full-Stack Developer
-### 📍 Gwalior, India
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Piyush+Kumar+Singh;Full-Stack+%26+Backend+Developer;LLM+Post-Training+Intern+%40+Ethara+AI;GSSoC+2025+Top+1%25+%E2%80%94+Rank+%2332+%2F+3414" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+%26+Robotics+Student;Full-Stack+MERN+Developer;Competitive+Programming+Expert;Open+Source+Contributor;98.55+Percentile+Achiever" alt="Typing SVG" />
+<br/>
+
+**B.Tech AI & Robotics · MITS Gwalior &nbsp;|&nbsp; CGPA: 8.14 &nbsp;|&nbsp; 📍 Gwalior, India**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-piyush--singh.dev-70A5FD?style=for-the-badge)](https://piyush-singh.dev/)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/18xc2Zn9bv5S3Thn78EEd4EURKQoPcv86/view?usp=drive_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-kumar-singh-702360287/)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:121piyush466mits@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=piyushkumar0707&color=70A5FD&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/piyushkumar0707?style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/piyushkumar0707?style=for-the-badge&color=yellow)
 
 </div>
 
 ---
 
-## 🏅 Dynamic Achievements & Coding Stats
+## 🚀 About Me
+
+```ts
+const piyush = {
+  role      : "Full-Stack & Backend Developer",
+  intern    : "LLM Post-Training Intern @ Ethara AI (Evaluated 10,000+ daily LLM interactions)",
+  education : "B.Tech AI & Robotics — MITS Gwalior (3rd Year) · CGPA: 8.14",
+  openSource: "GSSoC 2025 Top 1% · Rank #32/3414 · 48+ Merged PRs · 5,000+ LOC",
+  dsa       : "499+ problems solved (140 Easy · 292 Medium · 67 Hard) · 800+ GitHub contributions",
+  focus     : ["Backend Systems", "REST APIs", "Real-Time Apps", "AI/LLM Integration"],
+  openTo    : ["Backend Internships", "Full-Stack Roles", "AI/LLM Projects"],
+};
+```
+
+---
+
+## 💼 Experience
+
+### 🤖 LLM Post-Training Intern — Ethara AI *(Dec 2025 – Jan 2026)*
+- Evaluated LLM responses on curated problem sets, handling **10,000+ daily interactions**
+- Designed structured prompt–response evaluation workflows, identifying failure cases with detailed reasoning
+- Performed error analysis and provided corrective feedback, highlighting model reasoning gaps
+
+### 🌍 Open Source Contributor — GSSoC 2025 · Rank #32 / 3414 *(Aug – Nov 2025)*
+- Merged **48+ PRs** across **10+ repos**, contributing **5,000+ lines of code** — Top 1% global ranking
+- Architected JWT + RBAC authentication system handling **100+ concurrent users** in production
+- Optimized REST API endpoints & MongoDB query plans, cutting average response time by **40%**
+- Shipped 3 production-ready backend features end-to-end; conducted peer code reviews
+
+---
+
+## 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 MediQueue (CareQueue + Health-Vault)
+> HIPAA-compliant Healthcare Operations Platform
+
+- **100+ REST APIs** across 13 route modules & 9 MongoDB models; compound indexing cut DB query latency by **55%**
+- **AES-256-CBC** encrypted medical vault with field-level RBAC — secured **200+ patient profiles** with zero plaintext exposure
+- Real-time queue via **Socket.io** handling **50+ concurrent users** at sub-200ms position-update latency
+- JWT + OTP auth with refresh-token rotation & rate limiting (**100 req/min**); 100% write-operation audit log coverage
+
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://medi-queue-ten.vercel.app/login)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/piyushkumar0707/MediQueue)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧳 Travira — Microservices Safety Platform
+> Tourism Safety Management · Microservices Architecture
+
+- **25+ REST APIs** across **5 decoupled microservices**; shared auth middleware reduced per-service auth code by **60%**
+- Python **FastAPI** AI scoring service with real-time WebSocket streaming at sub-300ms threat-score delivery to **30+ concurrent clients**
+- Deployed 5 independent services with **zero-downtime releases**; unified API gateway served 3 client platforms (Android · React · Admin)
+
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://sih-dashboard-test-1.vercel.app/system-health)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/piyushkumar0707/sih-dashboard-test-1)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Tutor-AI
+> AI-Powered Personalized Learning Assistant
+
+- Intelligent tutoring system with adaptive LLM-powered responses
+- Dynamic Q&A with context-aware explanations
+- Clean, student-friendly UI for seamless learning
+
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://tutor-ai-nu.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/piyushkumar0707/TUTOR-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ TaskFlow
+> Full-Stack Task Management App
+
+- Kanban-style task management with JWT auth & persistent state
+- Clean MERN stack architecture for efficient workflows
+- Responsive UI with real-time updates
+
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://task-flow-two-liard.vercel.app/login)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/piyushkumar0707/TaskFlow)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack
 
 <div align="center">
 
-### 📊 GitHub Profile Stats
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,redux,tailwind&theme=dark" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=piyushkumar0707&color=blue&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/piyushkumar0707?style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/piyushkumar0707?style=for-the-badge&color=yellow)
-![GitHub Repositories](https://img.shields.io/badge/Repositories-50+-orange?style=for-the-badge)
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,mysql&theme=dark" />
 
-### 🏆 Achievements & Recognition
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,cpp,java&theme=dark" />
 
-![GSSoC Top 50](https://img.shields.io/badge/GSSoC_2025-Top_50_Contributor-gold?style=for-the-badge&logo=github)
-![Rank 32](https://img.shields.io/badge/Rank-32/3414-success?style=for-the-badge)
-![98.55 Percentile](https://img.shields.io/badge/Naukri_Campus-98.55%25_Percentile-blue?style=for-the-badge)
-![DSA Rank](https://img.shields.io/badge/DSA_MasterMind-81st_Rank-purple?style=for-the-badge)
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest_2025-Supercontributor-orange?style=for-the-badge)
+</div>
 
-### ⚡ Coding Activity
+<br/>
 
-![Total Contributions](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Total%20Contributions&query=$.totalContributions&url=https://github-contributions-api.jogruber.de/v4/piyushkumar0707?y=last&style=for-the-badge)
-![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=$.public_repos&url=https://api.github.com/users/piyushkumar0707&style=for-the-badge&logo=github)
-![Total Stars](https://img.shields.io/github/stars/piyushkumar0707?style=for-the-badge&color=yellow&logo=github&label=Total%20Stars)
-![Gists](https://img.shields.io/badge/dynamic/json?color=orange&label=Public%20Gists&query=$.public_gists&url=https://api.github.com/users/piyushkumar0707&style=for-the-badge&logo=github)
+<div align="center">
+
+| Area | Skills |
+|---|---|
+| **Backend** | Node.js · Express.js · FastAPI · REST APIs · Microservices · JWT · RBAC · Rate Limiting |
+| **Real-Time** | WebSocket · Socket.io · Event-Driven Architecture · Concurrency Handling |
+| **Security** | AES-256 Encryption · Secure Auth Flows · OTP Verification · Refresh Token Rotation |
+| **Databases** | MongoDB · PostgreSQL · MySQL — Indexing · Query Optimization · Schema Design |
+| **Core CS** | DSA · OOP · DBMS · System Design · OS · Computer Networks |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Achievements
+
+<div align="center">
+
+![GSSoC](https://img.shields.io/badge/GSSoC_2025-Rank_32_/_3414_(Top_1%25)-gold?style=for-the-badge&logo=github)
+![Naukri](https://img.shields.io/badge/Naukri_Campus-98.55%25_Percentile_(5L+_participants)-blue?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA_MasterMind-81st_Rank_(Top_1.5%25)-purple?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest_2025-Supercontributor-orange?style=for-the-badge)
+
+</div>
+
+<br/>
+
+| 🏅 Achievement | 📌 Detail |
+|---|---|
+| 🥇 **GSSoC 2025** | Rank **#32 / 3414** — Top 1% · 48+ Merged PRs · 5,000+ LOC · Certificate of Excellence |
+| 🥇 **Naukri Campus Young Turks 2025** | **98.55 Percentile** among 5 Lakh+ participants |
+| 🏆 **DSA MasterMind** | **81st Rank** / 6,999+ participants (Top 1.5%) |
+| 🥈 **CodeSprint Final** | **190th Rank** among 6,999+ national competitors |
+| 🎯 **Internship Illumination** | **2nd Position** — Asimov Robotics Club |
+| 📊 **GeeksforGeeks** | **176th Institutional Rank** · 499+ problems (140E · 292M · 67H) |
+| 🎃 **Hacktoberfest 2025** | Supercontributor — highest achievement level |
+
+---
+
+## 📜 Certifications
+
+| 🏅 Certification | 🏢 Issuer | 📅 |
+|---|---|---|
+| [OCI 2025 Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=89A6B4FFD84462B69642F0742A7C82A3EE953B34AAF1A909240F9483426A2AF3) | Oracle | Oct 2025 |
+| [OCI 2025 AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDF1498F3C03E2F5E7390AC91CE0C39E26BA42BBC06B50A23C351B7DF88CACE1) | Oracle | Sep 2025 |
+| [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/NW1Y1z-lSkqoaSV0CYAXYg) | Postman | Sep 2025 |
+| [GfG 160 Days of Problem Solving](https://media.geeksforgeeks.org/courses/certificates/13ab697fc9d09addbe68a46d0177a6b8.pdf) | GeeksforGeeks | May 2025 |
+| [DSA MasterMind — Certificate of Excellence](https://unstop.com/certificate-preview/babebcc2-2a6d-4c5e-a8e7-1250d4e6e61b) | Unstop | Jun 2025 |
+| [CodeSprint — Certificate of Excellence](https://unstop.com/certificate-preview/a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7) | Unstop | Jul 2025 |
+| [GSSoC 2025 — Certificate of Excellence](https://github.com/piyushkumar0707/piyushkumar0707/blob/main/gssoc-certificate.png) | GirlScript Foundation | 2025 |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushkumar0707&theme=tokyonight)
-![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkumar0707&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkumar0707&theme=tokyonight)
 
-</div>
-
-<div align="center">
-
-![GitHub Commits](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkumar0707&theme=tokyonight)
-
-</div>
-
-</div>
-
----
-
-###
-
-<table align="right">
-<tr>
-<td>
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Working GIF" />
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-## 💻 Tech Stack & Skills
-
-</div>
-
-<div align="center">
-
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,js,html,css,redux&theme=dark" />
-
-### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,java&theme=dark" />
-
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cpp&theme=dark" />
-
-### 🎯 Specialized Skills (GSSoC 2025)
- 🔐 **Security & Auth:** JWT, OAuth, Role-based Access Control
- 🎨 **Modern UI/UX:** Glassmorphism, Dark Mode, Responsive Design  
- ⚡ **Performance:** Caching, Optimization, Real-time Features
- 🤖 **AI Integration:** Speech Recognition, Chatbots, ML Features
- 🌐 **Internationalization:** Multi-language Support, Accessibility
-
-</div>
-
----
-
-###
-
-<div align="center">
-
-## 🏆 Achievements & Open Source
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🌟 **Top Achievements**
--🏆 **GSSoC 2025 Top 50 Contributor** - Rank **32 (Top 1%)**
-- 🥇 **98.55 Percentile** - Naukri Campus Young Turks 2025  
-  *India's largest skill contest*
-- 🏆 **81st Rank (Top 1.5%)** - DSA MasterMind  
-  *Out of 6999+ participants*
-- 🥈 **190th Rank** - CodeSprint Final Round  
-  *Among 6999+ national competitors*
-- 🎯 **2nd Position** - Internship Illumination  
-  *Asimov Robotics Club*
-
-</td>
-<td width="50%">
-
-### 🌟 **Platform Rankings**
-- 📊 **176th Institutional Rank** - GeeksforGeeks
-- 🎃 **Hacktoberfest 2025 Supercontributor**  
-  *Highest achievement level*
-- 🌳 **Tree Planter Badge** - Environmental contribution
-- 🏆 **GSSoC 2025 Top 50 Contributor** - Rank **32**/3414  
-  *GirlScript Summer of Code Certificate of Excellence*
-
-</td>
-</tr>
-</table>
-
----
-
-###
-
-### 🏅 Coding Platform Achievements
-
-<div align="center">
-
-[![Codolio Profile](https://img.shields.io/badge/Codolio-piyush__07-orange?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/piyush_07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-piyushsingh__07-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/piyushsingh_07/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-121piyushhcdy-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/121piyushhcdy/)
-[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-piyushmits-red?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/piyushmits)
-
-</div>
-
-**📊 Platform Statistics:**
-- 🎯 **Codolio Profile:** **39 Awards** including Master, Specialist & Achiever badges across all major DSA topics
-- 🟡 **LeetCode:** Active problem solver - [piyushsingh_07](https://leetcode.com/u/piyushsingh_07/)
-- 💚 **GeeksforGeeks:** 176th Institutional Rank with consistent problem solving
-- 🔴 **Coding Ninjas:** Regular practice and skill development
-- 🧩 **Competitive Programming:** Regular participation in coding contests across platforms
-- 📈 **Algorithm Expertise:** Strong foundation in Data Structures and Algorithms
-
-
-**🎖️ Master Level:**
-- 👑 **Master - Linked List** - Expert-level mastery of linked data structures
-
-**🎖️ Specialist Level (20 Awards):**
-- 👑 **Specialist - Two Pointers** - Advanced algorithm mastery
-- 👑 **Specialist - Tries** - Advanced string processing expertise
-- 👑 **Specialist - Stacks & Queues** - Data structure expertise  
-- 👑 **Specialist - Sorting** - Algorithm optimization skills
-- 👑 **Specialist - Recursion** - Advanced recursive problem solving
-- 👑 **Specialist - Matrices (2D Arrays)** - Multi-dimensional data handling
-- 👑 **Specialist - Linked List** - Complex data structure manipulation
-- 👑 **Specialist - Hash Table** - Advanced hashing techniques
-- 👑 **Specialist - Graph** - Graph algorithms and traversals
-- 👑 **Specialist - Depth-first Search** - DFS algorithm mastery
-- 👑 **Specialist - Breadth-first Search** - BFS algorithm expertise
-- 👑 **Specialist - Binary Trees** - Tree traversal and manipulation
-- 👑 **Specialist - Binary Search Trees** - BST operations mastery
-- 👑 **Specialist - Backtracking** - Complex backtracking algorithms
-- 👑 **Specialist - Arrays** - Array algorithm proficiency
-
-**🥇 Achiever Level (18 Awards):**
-- 🏅 **Achiever - Two Pointers** - Algorithmic problem solving
-- 🏅 **Achiever - Tries** - Advanced string processing
-- 🏅 **Achiever - Trees** - Tree data structure expertise
-- 🏅 **Achiever - Stacks & Queues** - Data structure implementation
-- 🏅 **Achiever - Sorting** - Sorting algorithm mastery
-- 🏅 **Achiever - Recursion** - Recursive problem solving
-- 🏅 **Achiever - Matrices (2D Arrays)** - Matrix operations
-- 🏅 **Achiever - Math** - Mathematical algorithm skills
-- 🏅 **Achiever - Linked List** - Pointer manipulation expertise
-- 🏅 **Achiever - Heap** - Priority queue implementation
-- 🏅 **Achiever - Hash Table** - Efficient data retrieval
-- 🏅 **Achiever - Graph** - Graph theory applications
-- 🏅 **Achiever - Greedy** - Greedy algorithm strategies
-- 🏅 **Achiever - Depth-first Search** - DFS implementation
-- 🏅 **Achiever - Breadth-first Search** - BFS problem solving
-- 🏅 **Achiever - Bit Manipulation** - Low-level optimization
-- 🏅 **Achiever - Binary Trees** - Tree algorithm proficiency
-- 🏅 **Achiever - Binary Search Trees** - BST manipulation
-- 🏅 **Achiever - Binary Search** - Search optimization
-- 🏅 **Achiever - Backtracking** - Backtracking techniques
-- 🏅 **Achiever - Arrays** - Fundamental data structure mastery
-
-**🎯 Special Recognition & Milestones:**
-- 🗓️ **100 Days Badge 2025** - Consistent daily practice achievement (Oct 19, 2025)
-- 🗓️ **50 Days Badge 2025** - Dedicated practice milestone (Aug 30, 2025)
-
-###
-
-### 🎖️ GSSoC 2025 Certificate & Achievements
-
-<div align="center">
-  <img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/gssoc-certificate.png" alt="GirlScript Summer of Code 2025 Certificate of Excellence" width="600" />
-</div>
-
-**🏆 Certificate Highlights:**
-- 🥇 **Top 50 Contributors** recognition among 3414 participants
-- 🎯 **Rank 32** - Elite performance in open source contribution  
-- 🌟 **Recognition for:** Dedication, innovation, and collaborative spirit
-
-**🎖️ Earned Progression Badges:**
-
-<div align="center">
-  <img src="https://github.com/piyushkumar0707/piyushkumar0707/blob/main/gssoc-badges.png" alt="GSSoC 2025 Earned Badges" width="500" />
-</div>
-
-- 🧭 **Explorer Badge** - Initial participation and exploration
-- 🚀 **Adventurer Badge** - Active contribution milestone  
-- 🔥 **Trailblazer Badge** - Advanced contributor status
-- ⛰️ **Summit Seeker Badge** - High-impact contributions
-- 📮 **Postman Badge** - API development expertise
-
-###
-
-### 📫 Connect with me
-
-<div align="left">
-  <a href="mailto:121piyush466mits@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/piyush-kumar-singh-702360287/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-### � Featured Projects
-
-<div align="left">
-
-**🏥 MediQueue (CareQueue + Health-Vault) - Healthcare Operations Platform**
-- Built HIPAA-compliant healthcare platform with MERN stack (React 18, Node.js, Express, MongoDB)
-- Implemented real-time patient queue management system using Socket.io for live updates
-- Developed consent-based encrypted medical records vault with AES-256-GCM encryption
-- Created multi-role system (Patient, Doctor, Admin) with JWT authentication and role-based access control
-- Integrated 16 core features including appointment scheduling, prescription management, and audit logging
-- Designed comprehensive analytics dashboard with data visualization for healthcare metrics
-- 📂 **GitHub Repo:** [github.com/piyushkumar0707/MediQueue](https://github.com/piyushkumar0707/MediQueue)
-
-**🧳 Travira - Tourism Safety Management Platform** 
-- Designed sophisticated platform to enhance tourist safety via real-time monitoring and automated alerts
-- Integrated AI-driven analytics and blockchain principles to ensure secure data management and storage
-- Conceptualized architecture to reduce data processing latency by 30%
-- 🌐 **Live Demo:** [travira-frontend.onrender.com](https://travira-frontend.onrender.com/)
-- 📂 **GitHub Repo:** [github.com/piyushkumar0707/sih-dashboard-test-1](https://github.com/piyushkumar0707/sih-dashboard-test-1)
-
-</div>
-
-###
-
-### 📜 Certifications
-
-<div align="center">
-
-## 🔥 Latest Professional Certifications
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🤖 [Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=89A6B4FFD84462B69642F0742A7C82A3EE953B34AAF1A909240F9483426A2AF3)
-**Oracle** • *Oct 2025*  
-📋 **Credential ID:** `322511771OCI25GAIOCP`  
-🎯 **Skills:** Artificial Intelligence (AI), Generative AI
-
-### 🏅 [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=DDF1498F3C03E2F5E7390AC91CE0C39E26BA42BBC06B50A23C351B7DF88CACE1)
-**Oracle** • *Sep 2025*  
-📋 **Credential ID:** `322511771OCI25AICFA`
-
-</td>
-<td width="50%">
-
-### 🚀 [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/NW1Y1z-lSkqoaSV0CYAXYg?identity__email=121piyush466mits@gmail.com)
-**Postman** • *Sep 2025*  
-🎯 **Skills:** Postman API, REST APIs, API Testing
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🏆 Excellence & Merit Certifications
-
-</div>
-
-<table align="center">
-<tr>
-<td width="100%" align="center">
-
-### 🥇 [Naukri Campus Young Turks 2025 - Certificate of Merit](https://www.naukri.com/campus/certificates/young_turks25_round_1_achievement/v0/68d9bdfdabe8a1724df78fa1)
-**Naukri Campus** • *Sep 2025*  
-🎯 **98.55 Percentile** - *India's largest skill contest*  
-📋 **Certificate ID:** `68d9bdfcabe8a1724df78fa1`  
-🏢 **Recognized by:** Infosys, Hitachi, CES, and leading industry experts
-
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎯 [GfG 160-160 Days of Problem Solving](https://media.geeksforgeeks.org/courses/certificates/13ab697fc9d09addbe68a46d0177a6b8.pdf)
-**GeeksforGeeks** • *May 2025*  
-🎯 **Skills:** Data Structures, Algorithms, Creative Problem Solving, Programming
-
-### 🏆 [Certificate of Excellence - DSA MasterMind](https://unstop.com/certificate-preview/babebcc2-2a6d-4c5e-a8e7-1250d4e6e61b)
-**Unstop** • *June 2025*  
-🧠 **MCQ Round Excellence**  
-📋 **Credential ID:** `babebcc2-2a6d-4c5e-a8e7-1250d4e6e61b`
-
-</td>
-<td width="50%">
-
-### 🎯 [Certificate of Excellence - CodeSprint](https://unstop.com/certificate-preview/a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7)
-**Unstop** • *July 2025*  
-⚔️ **CodeClash - The Battle of Logic**  
-📋 **Credential ID:** `a6d99b6e-2e2b-4c1f-9257-cd9088ae46a7`
-
-### 🏆 [GirlScript Summer of Code 2025 - Certificate of Excellence](https://github.com/piyushkumar0707/piyushkumar0707/blob/main/gssoc-certificate.png)
-**GirlScript Foundation** • *2025*  
-🥇 **Top 50 Contributor** - Rank 32 out of 3414 participants  
-📊 **48 Merged Pull Requests** - Comprehensive contributions across multiple projects  
-🎯 **Skills:** Open Source Development, Full-Stack Development, Collaboration, Leadership  
-📋 **Achievement:** Recognized for dedication, innovation, and collaborative spirit
-
-</td>
-</tr>
-</table>
-
----
-
-###
-
-### � GitHub Streak
-
-<div align="center">
+<br/>
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=piyushkumar0707&theme=tokyonight&hide_border=true)
 
-</div>
+<br/>
 
-###
-
-<div align="center">
-
-## 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyushkumar0707&theme=tokyonight&utc_offset=5.5)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkumar0707&theme=tokyonight)
 
 </div>
 
 ---
 
+## 🧩 Coding Profiles
+
 <div align="center">
 
-## 🐍 Contribution Snake
-  
-<img src="https://raw.githubusercontent.com/piyushkumar0707/piyushkumar0707/output/snake.svg" alt="Snake animation" />
+[![Codolio](https://img.shields.io/badge/Codolio-39_Awards-orange?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/piyush_07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-499+_Problems_Solved-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/piyushsingh_07/)
+[![GeeksforGeeks](https://img.shields.io/badge/GfG-176th_Inst._Rank-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/121piyushhcdy/)
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Active-red?style=for-the-badge)](https://www.naukri.com/code360/profile/piyushmits)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/piyushkumar0707/piyushkumar0707/output/snake.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -394,14 +234,6 @@
 
 ### 💫 *"Code is like humor. When you have to explain it, it's bad."*
 
-<img src="https://komarev.com/ghpvc/?username=piyushkumar0707&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-### ⭐ Don't forget to star some repositories if you find them interesting!
-
-</div>
-
-<div align="center">
-
-**🚀 Let's connect and build something amazing together! 🚀**
+**🚀 Let's connect and build something amazing together!**
 
 </div>
