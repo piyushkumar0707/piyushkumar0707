@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-piyush--singh.dev-70A5FD?style=for-the-badge)](https://piyush-singh.dev/)
-[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/18xc2Zn9bv5S3Thn78EEd4EURKQoPcv86/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/📄_Resume-View_PDF-4CAF50?style=for-the-badge)](https://drive.google.com/file/d/1n1eliozdrsCJtf1pX_xYumgdh0ILULig/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyush-kumar-singh-702360287/)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:121piyush466mits@gmail.com)
 
@@ -68,7 +68,7 @@ const piyush = {
 - Real-time queue via **Socket.io** handling **50+ concurrent users** at sub-200ms position-update latency
 - JWT + OTP auth with refresh-token rotation & rate limiting (**100 req/min**); 100% write-operation audit log coverage
 
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://medi-queue-ten.vercel.app/login)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://medi-queue-ten.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/piyushkumar0707/MediQueue)
 
 </td>
@@ -81,7 +81,7 @@ const piyush = {
 - Python **FastAPI** AI scoring service with real-time WebSocket streaming at sub-300ms threat-score delivery to **30+ concurrent clients**
 - Deployed 5 independent services with **zero-downtime releases**; unified API gateway served 3 client platforms (Android · React · Admin)
 
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://sih-dashboard-test-1.vercel.app/system-health)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://travira-iota.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/piyushkumar0707/sih-dashboard-test-1)
 
 </td>
